@@ -63,5 +63,7 @@ The `[a-f0-9]` characer class tells us that the input string can include any low
 `|` - Acts as the OR operator. Matches the expression before or after it.<br> In regular expressions the `|` serves as an OR operator. This allows the patterns, on either side of it, to be matched.<br> Which means a valid match can occur, if either of the patterns is found.<br> In our expression valid matches can be either 6 characters, OR 3 characters. The OR operator provides flexibility in pattern matching, allowing you to define more comprehensive validation rules for your data.
 
 ## Author
+## Author
 A link to my Github Profile: [BrianJohnMaher](https://github.com/BrianJohnMaher)<br>
-A link to the Repository: [git@github.com:BrianJohnMaher/regexRejects.git]
+A link to the Repository: [[regexRejects](https://brianjohnmaher.github.io/regexRejects/)]<br>
+A link to the Github Gist: [[regexRejectsGist](https://gist.github.com/BrianJohnMaher/97057d22b747818601abcb921f3f54bf)]
